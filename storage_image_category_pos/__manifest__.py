@@ -6,12 +6,15 @@
 {
     "name": "Storage Image Category POS",
     "summary": "Add image handling to product category and use it for POS",
-    "version": "10.0.1.0.0",
+    "version": "11.0.1.0.0",
     "category": "Storage",
     "website": "https://www.github.com/OCA/storage",
     "author": " Akretion, Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "installable": False,
-    "depends": ["storage_image_product_pos", "pos_remove_pos_category"],
+    "depends": [
+        "storage_image_product_pos",
+        "pos_remove_pos_category"
+    ],
     "data": ["views/product_category.xml"],
 }

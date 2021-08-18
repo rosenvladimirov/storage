@@ -3,9 +3,9 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).
 
 {
-    "name": "Storage Image",
+    "name": "Storage Image !!!UNDER CONSTRUCTION!!!",
     "summary": "Store image and resized image in a storage backend",
-    "version": "12.0.2.4.0",
+    "version": "11.0.2.4.0",
     "category": "Storage",
     "website": "https://www.github.com/OCA/storage",
     "author": " Akretion, Odoo Community Association (OCA)",
